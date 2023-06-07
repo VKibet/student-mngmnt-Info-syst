@@ -1,6 +1,6 @@
 {
   "id": "ea0f7d5b-ee4b-4a00-be2e-e1590054c3b6",
-  "name": "smisproject",
+  "name": "Student Portal",
   "publisher": "Default publisher",
   "version": "1.0.0.0",
   "brief": "",
@@ -21,7 +21,7 @@
     }
   ],
   "showMyCode": true,
-  "runtime": "3.0",
+  "runtime": "4.0",
   "features": [
     "NoImplicitWith"
   ]
